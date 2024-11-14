@@ -20,5 +20,5 @@ artifacts:
   files:
     - target/unicorn-web-project.war
     - appspec.yml
-    - scripts/**/*
+    - scripts/*
   discard-paths: no
